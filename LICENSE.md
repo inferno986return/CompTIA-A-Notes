@@ -1,6 +1,6 @@
-#Written content is licensed under **Creative Commons ShareAlike 4.0** (https://creativecommons.org/licenses/by-sa/4.0/).
+# Written content is licensed under **Creative Commons ShareAlike 4.0** (https://creativecommons.org/licenses/by-sa/4.0/).
 
-#The LaTeX code is licensed under **The Unlicense** (http://unlicense.org/).
+# The LaTeX code is licensed under **The Unlicense** (http://unlicense.org/).
 
 This is free and unencumbered software released into the public domain.
 
